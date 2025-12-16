@@ -13,11 +13,13 @@ A fast-paced 2.5D platformer focused on advanced movement and traversal mechanic
 - Advanced player abilities: double jump, crouch, vault, jetpack  
 - AI drones, interactive objects, and environmental obstacles  
 - Checkpoint system, player dialogues, and immersive sound effects
+- Speedrun timer system showing current run time, previous run, and best time at the finish line
   
 ### What I Worked On
 - Designed and implemented player movement & traversal systems  
 - Built AI behavior, obstacles, and interactive level elements  
 - Added checkpoints, triggers, dialogues, and gameplay polish
+- Developed a speedrun timer system with best-time and previous-run tracking
 
 **Technologies:** Unreal Engine, C++, Visual Studio  
 🎥 **Gameplay Video:** https://www.youtube.com/watch?v=vz98-8XhX-w&t=5s
