@@ -14,7 +14,6 @@ A fast-paced 2.5D platformer focused on advanced movement and traversal mechanic
 - AI drones, interactive objects, and environmental obstacles  
 - Checkpoint system, player dialogues, and immersive sound effects
   
-
 ### What I Worked On
 - Designed and implemented player movement & traversal systems  
 - Built AI behavior, obstacles, and interactive level elements  
@@ -38,7 +37,6 @@ A fast 3D endless runner inspired by the Scorpion character from Mortal Kombat.
 - Implemented spin attack logic, movement abilities, and obstacle interactions  
 - Created best-score saving, UI score display, and game-over logic
 
- 
 **Technologies:** Unreal Engine, C++, Visual Studio  
 🎥 **Gameplay Video:** https://www.youtube.com/watch?v=F5Ef80WN_SY&t=2s
 ---
@@ -55,7 +53,6 @@ A space-themed endless runner where survival depends on collecting oxygen.
 - Created full gameplay using Unreal Engine Blueprints  
 - Built obstacle behavior, oxygen system, and player abilities  
 - Added spaceship shooting mode, sound effects, and gameplay polish
-
 
 **Technologies:** Unreal Engine 5.4.4, Blueprints  
 🎥 **Gameplay Video:** https://www.youtube.com/watch?v=GPbZjnAJBlo
@@ -82,6 +79,5 @@ A sci-fi TPS set in a city construction zone invaded by aliens and sealed by the
 ---
 
 ## 🔗 Links
-🌐 **Portfolio:** your-portfolio-link  
-📺 **YouTube:** https://www.youtube.com/@tanmaysamal1398  
+🌐 **Portfolio:** https://tanmaygh-afk.github.io/portfolio-website/ 
 💼 **LinkedIn:** https://www.linkedin.com/in/tanmay-samal/
