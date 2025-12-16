@@ -12,15 +12,16 @@ A fast-paced 2.5D platformer focused on advanced movement and traversal mechanic
 ### Key Features
 - Advanced player abilities: double jump, crouch, vault, jetpack  
 - AI drones, interactive objects, and environmental obstacles  
-- Checkpoint system, player dialogues, and immersive sound effects  
+- Checkpoint system, player dialogues, and immersive sound effects
+  
 
 ### What I Worked On
 - Designed and implemented player movement & traversal systems  
 - Built AI behavior, obstacles, and interactive level elements  
-- Added checkpoints, triggers, dialogues, and gameplay polish  
+- Added checkpoints, triggers, dialogues, and gameplay polish
 
 **Technologies:** Unreal Engine, C++, Visual Studio  
-🎥 **YouTube:** Scorpion-Rush Gameplay Link  
+🎥 **Gameplay Video:** [https://www.youtube.com/watch?v=vz98-8XhX-w&t=4s ](url) 
 
 ---
 
@@ -35,10 +36,11 @@ A fast 3D endless runner inspired by the Scorpion character from Mortal Kombat.
 ### What I Worked On
 - Built core gameplay mechanics using C++ and Unreal Engine  
 - Implemented spin attack logic, movement abilities, and obstacle interactions  
-- Created best-score saving, UI score display, and game-over logic  
+- Created best-score saving, UI score display, and game-over logic
 
+ 
 **Technologies:** Unreal Engine, C++, Visual Studio  
-🎥 **YouTube:** Scorpion-Rush Gameplay Link  
+🎥 **Gameplay Video:** [ https://www.youtube.com/watch?v=F5Ef80WN_SY&t=1s](url)
 
 ---
 
@@ -53,10 +55,11 @@ A space-themed endless runner where survival depends on collecting oxygen.
 ### What I Worked On
 - Created full gameplay using Unreal Engine Blueprints  
 - Built obstacle behavior, oxygen system, and player abilities  
-- Added spaceship shooting mode, sound effects, and gameplay polish  
+- Added spaceship shooting mode, sound effects, and gameplay polish
+
 
 **Technologies:** Unreal Engine 5.4.4, Blueprints  
-🎥 **YouTube:** Cyber-Runner Gameplay Link  
+🎥 **Gameplay Video:** [ https://www.youtube.com/watch?v=GPbZjnAJBlo](url)  
 
 ---
 
