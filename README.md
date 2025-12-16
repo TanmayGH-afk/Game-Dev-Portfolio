@@ -21,7 +21,7 @@ A fast-paced 2.5D platformer focused on advanced movement and traversal mechanic
 - Added checkpoints, triggers, dialogues, and gameplay polish
 
 **Technologies:** Unreal Engine, C++, Visual Studio  
-🎥 **Gameplay Video:** [https://www.youtube.com/watch?v=vz98-8XhX-w&t=4s ](url) 
+🎥 **Gameplay Video:** https://www.youtube.com/watch?v=vz98-8XhX-w&t=5s
 
 ---
 
@@ -40,8 +40,7 @@ A fast 3D endless runner inspired by the Scorpion character from Mortal Kombat.
 
  
 **Technologies:** Unreal Engine, C++, Visual Studio  
-🎥 **Gameplay Video:** [ https://www.youtube.com/watch?v=F5Ef80WN_SY&t=1s](url)
-
+🎥 **Gameplay Video:** https://www.youtube.com/watch?v=F5Ef80WN_SY&t=2s
 ---
 
 ## Cyber-Runner — 3D Endless Runner (Space)
@@ -59,7 +58,7 @@ A space-themed endless runner where survival depends on collecting oxygen.
 
 
 **Technologies:** Unreal Engine 5.4.4, Blueprints  
-🎥 **Gameplay Video:** [ https://www.youtube.com/watch?v=GPbZjnAJBlo](url)  
+🎥 **Gameplay Video:** https://www.youtube.com/watch?v=GPbZjnAJBlo
 
 ---
 
